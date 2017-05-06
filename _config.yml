@@ -1,0 +1,5 @@
+name: V4X
+description: V4X Parallel Industries
+paginate: 10
+
+gems: [jekyll-paginate]
